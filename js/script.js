@@ -7,3 +7,6 @@ function soltouMouse() {
 function mouseEmCima() {
 	console.log("Mouse passou por cima!");
 }
+function mouseSaiuDeCima(){
+	console.log("Mouse saiu de cima!");
+}
