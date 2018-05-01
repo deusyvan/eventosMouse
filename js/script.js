@@ -10,3 +10,6 @@ function mouseEmCima() {
 function mouseSaiuDeCima(){
 	console.log("Mouse saiu de cima!");
 }
+function moveuMouse(){
+	console.log("Mouse foi movido por pixel!");
+}
