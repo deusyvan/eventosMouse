@@ -13,3 +13,6 @@ function mouseSaiuDeCima(){
 function moveuMouse(){
 	console.log("Mouse foi movido por pixel!");
 }
+function clicou(){
+	console.log("CLICOU!");
+}
