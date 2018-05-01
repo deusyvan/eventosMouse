@@ -20,3 +20,6 @@ function botaoDireito() {
 	console.log("botão Direito");
 	return false;
 }
+function cliqueDuplo() {
+	console.log("CLICOU DUAS VEZES!");
+}
