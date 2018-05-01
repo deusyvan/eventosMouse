@@ -17,5 +17,6 @@ function clicou(){
 	console.log("CLICOU!");
 }
 function botaoDireito() {
-	console.log("botão Direito")
+	console.log("botão Direito");
+	return false;
 }
