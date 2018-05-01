@@ -16,3 +16,6 @@ function moveuMouse(){
 function clicou(){
 	console.log("CLICOU!");
 }
+function botaoDireito() {
+	console.log("botão Direito")
+}
